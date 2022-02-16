@@ -2,8 +2,13 @@
 content_type: resource
 description: This file contains the Introduction to the course, purpose of introduction,
   grading, rewrites, conext, focus and justification.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/7-02ci-experimental-biology-communications-intensive-spring-2005/2078363b2278fef4263fc63a04bba556_intro_mpo_sp05.pdf
+file: /media/courses/7-02ci-experimental-biology-communications-intensive-spring-2005/2078363b2278fef4263fc63a04bba556_intro_mpo_sp05.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: intro_mpo_sp05.pdf
 uid: 2078363b-2278-fef4-263f-c63a04bba556
