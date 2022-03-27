@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: b4b27d6d-bb3d-cbf3-8eb7-1d36b5864694
 resourcetype: Document
 title: illus_nl_sp05.pdf
 uid: 704397c8-e9cd-7e2e-8ff2-08584d529593

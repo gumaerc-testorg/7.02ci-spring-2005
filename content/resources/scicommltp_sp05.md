@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4098bde4-f270-bc0f-51e3-36c610242dbb
 resourcetype: Document
 title: scicommltp_sp05.pdf
 uid: fb2ed9b3-fb6a-0597-9986-6c5b44e9185b

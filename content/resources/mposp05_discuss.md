@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: b4b27d6d-bb3d-cbf3-8eb7-1d36b5864694
 resourcetype: Document
 title: mposp05_discuss.pdf
 uid: 19f0284e-3c14-3c4a-4e50-70bded850304

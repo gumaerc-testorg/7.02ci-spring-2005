@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: b4b27d6d-bb3d-cbf3-8eb7-1d36b5864694
 resourcetype: Document
 title: methods_mpo_sp05.pdf
 uid: 8a221735-e1f7-4576-6aca-67278db0ac39

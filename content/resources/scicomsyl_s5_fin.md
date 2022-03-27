@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 6e4bf81e-80ba-789f-8ca0-bf9effde6609
 resourcetype: Document
 title: scicomsyl_s5_fin.pdf
 uid: 01790be1-2c5e-f9e4-5375-33042500bdba
