@@ -5,6 +5,7 @@ file: /courses/7-02ci-experimental-biology-communications-intensive-spring-2005/
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: scicommltp_sp05.pdf
 uid: fb2ed9b3-fb6a-0597-9986-6c5b44e9185b
 ---
 This file contains the list of long term project choices.
-

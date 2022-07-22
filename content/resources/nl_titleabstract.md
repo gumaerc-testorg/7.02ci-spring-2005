@@ -5,6 +5,7 @@ file: /courses/7-02ci-experimental-biology-communications-intensive-spring-2005/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: nl_titleabstract.pdf
 uid: efe5933b-09c1-6f02-b3f4-38d37e5da72f
 ---
 This file contains the insturctions for writing the abstract.
-

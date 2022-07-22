@@ -7,6 +7,7 @@ file: /courses/7-02ci-experimental-biology-communications-intensive-spring-2005/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: discussion_nl.pdf
 uid: 4c2d5873-4abc-ca84-ac39-a9bfd0d718cf
 ---
 This file explains the pupose of the discussion section, what is going to be discussed in the discussion section, tips for discussion section and explains about hedging words.
-

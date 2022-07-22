@@ -6,6 +6,7 @@ file: /courses/7-02ci-experimental-biology-communications-intensive-spring-2005/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: intro_mpo_sp05.pdf
 uid: 2078363b-2278-fef4-263f-c63a04bba556
 ---
 This file contains the Introduction to the course, purpose of introduction, grading, rewrites, conext, focus and justification.
-

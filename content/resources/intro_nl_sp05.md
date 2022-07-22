@@ -5,6 +5,7 @@ file: /courses/7-02ci-experimental-biology-communications-intensive-spring-2005/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: intro_nl_sp05.pdf
 uid: f92afa77-e3a9-c272-3e30-f8ea1c40f8af
 ---
 This file contains the introduction to the course by Neal Lerner.
-

@@ -7,6 +7,7 @@ file: /courses/7-02ci-experimental-biology-communications-intensive-spring-2005/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: result_nl_sp05.pdf
 uid: ffe221ca-9f46-4165-9a01-b56cdf29cd86
 ---
 This file contains the instructions for the result section alongwith the differentiation between the methods and the results and the purpose of the result section.
-

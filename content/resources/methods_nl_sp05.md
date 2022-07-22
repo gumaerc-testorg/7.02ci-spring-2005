@@ -5,6 +5,7 @@ file: /courses/7-02ci-experimental-biology-communications-intensive-spring-2005/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: methods_nl_sp05.pdf
 uid: f86db4cf-6efb-bdf8-bd1d-b34427c374c3
 ---
 This file contains the materials and ways for scientific writing.
-

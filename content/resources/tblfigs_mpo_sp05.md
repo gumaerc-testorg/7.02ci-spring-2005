@@ -6,6 +6,7 @@ file: /courses/7-02ci-experimental-biology-communications-intensive-spring-2005/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: tblfigs_mpo_sp05.pdf
 uid: f7390dea-a85e-a1d3-9ce6-9574ecf61ab5
 ---
 This file conatins the information on how to put figures and tables in scientific writing.
-
