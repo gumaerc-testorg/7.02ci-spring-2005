@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides information on course topics, meeting
+  times, instructors, class objectives, methods, grading, and course policies.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 6e4bf81e-80ba-789f-8ca0-bf9effde6609
 ---
@@ -18,7 +22,7 @@ In this portion of the course, you will develop your skills as a writer of scien
 
 In this way, writing will be both a tool of communicating and a tool of learning. In addition, you will develop your skills as a writer, reviser, and editor - working with your peers and your instructor - and, ultimately, develop a solid foundation for writing up your future independent research.
 
-Course syllabus ([PDF]({{< baseurl >}}/resources/scicomsyl_s5_fin))
+Course syllabus ({{% resource_link 01790be1-2c5e-f9e4-5375-33042500bdba "PDF" %}})
 
 Instructors and Class Meetings
 ------------------------------

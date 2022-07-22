@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides a description of in-class activities, out-of-class
+  exercises, the long-term project, and course assignments by session.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 4098bde4-f270-bc0f-51e3-36c610242dbb
 ---
@@ -16,7 +21,7 @@ Out-of-Class Writing
 
 Out-of-class exercises will put in-class experience to work on scientific content. You will experiment with the relationship between audience and style/format, as well as explore and critique writing the readings assigned for each class. Further descriptions of out-of-class exercises will be provided during each class meeting.
 
-Long-Term Project ([PDF]({{< baseurl >}}/resources/scicommltp_sp05))
+Long-Term Project ({{% resource_link fb2ed9b3-fb6a-0597-9986-6c5b44e9185b "PDF" %}})
 --------------------------------------------------------------------
 
 In addition to various in-class and out-of-class exercises, you will be asked to choose one on-going writing project. Each choice will require that you turn in sections of the whole at each class meeting and regularly revise those sections based on instructor and peer feedback. You will then hand in a final version of your project at the end of the semester. **Please note:** The first section to your long-term project - the introduction - will be due before the second class meeting and some preliminary work on your project will be done at the first class meeting; thus, please make your topic choice as soon as possible. Choices are as follows:
