@@ -28,7 +28,7 @@
     "website": "7-02ci-experimental-biology-communications-intensive-spring-2005"
   },
   "course_title": "Experimental Biology - Communications Intensive",
-  "course_description": "This course is the scientific communications portion of course [7.02, Experimental Biology and Communication](courses/7-02-experimental-biology-communication-spring-2005). Students develop their skills as writers of scientific research, skills that also contribute to the learning of the 7.02 course materials. Through in class and out of class writing exercises, students explore the genre of the research article and its components while developing an understanding of the materials covered in the 7.02 laboratory.\n",
+  "course_description": "This course is the scientific communications portion of course [7.02, Experimental Biology and Communication](https://ocw.mit.edu/courses/7-02-experimental-biology-communication-spring-2005/). Students develop their skills as writers of scientific research, skills that also contribute to the learning of the 7.02 course materials. Through in class and out of class writing exercises, students explore the genre of the research article and its components while developing an understanding of the materials covered in the 7.02 laboratory.",
   "department_numbers": [
     "7",
     "10"
@@ -43,6 +43,7 @@
     "Lecture Notes",
     "Written Assignments"
   ],
-  "site_uid": "9d158b33-b153-4396-9848-6f49b16752b4",
+  "site_uid": "e31538a3-6130-499b-a218-398a76abffb0",
+  "short_id": "7.02ci-spring-2005",
   "title": "Course Metadata"
 }
