@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains the introduction to the course by Neal Lerner.
 file: /courses/7-02ci-experimental-biology-communications-intensive-spring-2005/f92afa77e3a9c2723e30f8ea1c40f8af_intro_nl_sp05.pdf
+file_size: 212986
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
