@@ -2,19 +2,17 @@
 content_type: page
 description: This syllabus section provides information on course topics, meeting
   times, instructors, class objectives, methods, grading, and course policies.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 6e4bf81e-80ba-789f-8ca0-bf9effde6609
 ---
-
-Course Meeting Times
---------------------
+## Course Meeting Times
 
 Lectures: 6 sessions / 12 weeks, 2 hours / session
 
-Good Scientific Communication
------------------------------
+## Good Scientific Communication
 
 If the goal of science is to contribute to our understanding of the natural world, then the goal of scientific writing is to communicate that understanding with precision, accuracy, and economy.
 
@@ -22,25 +20,22 @@ In this portion of the course, you will develop your skills as a writer of scien
 
 In this way, writing will be both a tool of communicating and a tool of learning. In addition, you will develop your skills as a writer, reviser, and editor - working with your peers and your instructor - and, ultimately, develop a solid foundation for writing up your future independent research.
 
-Course syllabus ({{% resource_link 01790be1-2c5e-f9e4-5375-33042500bdba "PDF" %}})
+Course syllabus ({{% resource_link "01790be1-2c5e-f9e4-5375-33042500bdba" "PDF" %}})
 
-Instructors and Class Meetings
-------------------------------
+## Instructors and Class Meetings
 
-Students in [7.02, Experimental Biology and Communication](/courses/7-02-experimental-biology-communication-spring-2005) select a Scientific Communications ("SciComm") section, each taught by an instructor from the Program in Writing and Humanistic Studies department at MIT. SciComm sections meet six times over the course of the semester. Each session consists of lectures and in-class activities as described in the Class Methods section below.
+Students in 7.02, Experimental Biology and Communication select a Scientific Communications ("SciComm") section, each taught by an instructor from the Program in Writing and Humanistic Studies department at MIT. SciComm sections meet six times over the course of the semester. Each session consists of lectures and in-class activities as described in the Class Methods section below.
 
-Class Objectives
-----------------
+## Class Objectives
 
 At the conclusion of this class, students will be able to:
 
-*   Understand the seven components (title, abstract, introduction, methods, results, discussion/conclusion, tables/figures) of a laboratory research paper.
-*   Understand the writing process and its application to scientific writing.
-*   Understand the importance of communicating in writing as a scientist.
-*   Apply an understanding of scientific writing to their subsequent independent research.
+- Understand the seven components (title, abstract, introduction, methods, results, discussion/conclusion, tables/figures) of a laboratory research paper.
+- Understand the writing process and its application to scientific writing.
+- Understand the importance of communicating in writing as a scientist.
+- Apply an understanding of scientific writing to their subsequent independent research.
 
-Class Methods
--------------
+## Class Methods
 
 ### In-class Activities
 
@@ -56,27 +51,15 @@ Out-of-class exercises will put in-class experience to work on scientific conten
 
 In addition to various in-class and out-of-class exercises, you will be asked to choose one on-going writing project. Each choice will require that you turn in sections of the whole at each class meeting and regularly revise those sections based on instructor and peer feedback. You will then hand in a final version of your project at the end of the semester. **Please note:** The first section to your long-term project - the introduction - will be due before the second class meeting and some preliminary work on your project will be done at the first class meeting; thus, please make your topic choice as soon as possible.
 
-Grading
--------
+## Grading
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 AcTIVITIES
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 PERCENTAGES
-{{< thclose >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
-_In-class Work_
+*In-class Work*
 
 Attendance and Participation (In Discussion and In Writing Activities)
 
@@ -84,206 +67,109 @@ Oral Presentation
 
 Provides Useful Feedback on his/her Peers' Writing (Peer Tutoring)
 
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 20%
-{{< tdclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
-_Out-of-class Work_
+*Out-of-class Work*
 
 A) Professional Improvement
 
 B) Five Non-long Term Project Writing Assignments (To be Announced)
 
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 30%
-{{< tdclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
-_Long-Term Project_
+*Long-Term Project*
 
 A) Long-term Project (LTP) Drafts (25%)
 
-1\. LTP Intro Draft  
-2\. LTP Methods Draft  
-3\. LTP Results Draft  
-4\. LTP Figures draft  
+1\. LTP Intro Draft   
+2\. LTP Methods Draft   
+3\. LTP Results Draft   
+4\. LTP Figures draft   
 5\. LTP Discussion draft
 
 B) Long-term Project Title and Abstract (5%)
 
 C) Long-term Project Final Draft (20%)
 
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 50%
-{{< tdclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-{{< trclose >}}
-
-{{< tableclose >}}
-
-Revision Policy and Grading Schemes
------------------------------------
+## Revision Policy and Grading Schemes
 
 ### Revision policy
 
 A major part of the scientific writing process is revision, and thus you will have the opportunity to rewrite your SciComm "out of class" assignments and your LTP drafts. Revision will improve not only your writing but also your score on that assignment. The following guidelines govern rewrites in 7.02 / 10.702 SciComm:
 
-*   **One** rewrite is allowed for each assignment.
-*   Rewrites must be turned in by **one week** after assignment is returned.
-*   Higher score of the two is recorded.
+- **One** rewrite is allowed for each assignment.
+- Rewrites must be turned in by **one week** after assignment is returned.
+- Higher score of the two is recorded.
 
 ### Grading of Oral Presentations
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 GRADE
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 PRESENTATION QUALITY INFORMATION
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 +
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Superior presentation. Talk has structure/organization; presenter has good eye contact/rapport with audience; speaks clearly and correctly. Uses visuals where appropriate.
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 √+
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Good presentation. Requires only minor improvements in any of the areas above.
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 √
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Acceptable presentation. Requires moderate improvements in one or more of the areas above.
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 √-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Poor presentation (doesn’t care or prepare)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 0
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Fails to complete oral presentation.
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 ### Grading of Writing Assignments
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 GRADE
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 QUALITY OF WRITING EMBODIED BY THIS SCORE
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 +
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Thoroughly superior work. A model of good scientific writing.
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 √+
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Good work. Requires only minor improvements in any of the following areas: organization of ideas; economy of expression; diction (word choice); grammar/punctuation/spelling.
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 √
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Acceptable work. Requires moderate revision in one or more of the areas above.
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 √-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Acceptable but rough work. Requires substantial revision in all areas.
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 \-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Unacceptable work.
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 0
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Assignment not handed in.
-{{< tdclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-{{< trclose >}}
-
-{{< tableclose >}}
-
-Additional Information
-----------------------
+## Additional Information
 
 ### Policy on Absences
 
