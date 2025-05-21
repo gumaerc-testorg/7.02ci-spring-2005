@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the goals and discussion for the scientific writing.
-file: /ol-ocw-studio-app/courses/7-02ci-experimental-biology-communications-intensive-spring-2005/19f0284e3c143c4a4e5070bded850304_mposp05_discuss.pdf
+file: /courses/7-02ci-experimental-biology-communications-intensive-spring-2005/19f0284e3c143c4a4e5070bded850304_mposp05_discuss.pdf
 file_size: 137393
 file_type: application/pdf
 learning_resource_types:
