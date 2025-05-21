@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the Introduction to the course, purpose of introduction,
   grading, rewrites, conext, focus and justification.
-file: /ol-ocw-studio-app/courses/7-02ci-experimental-biology-communications-intensive-spring-2005/2078363b2278fef4263fc63a04bba556_intro_mpo_sp05.pdf
+file: /courses/7-02ci-experimental-biology-communications-intensive-spring-2005/2078363b2278fef4263fc63a04bba556_intro_mpo_sp05.pdf
 file_size: 144920
 file_type: application/pdf
 learning_resource_types:

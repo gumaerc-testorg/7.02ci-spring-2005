@@ -2,7 +2,7 @@
 content_type: resource
 description: This file conatins the information on how to put figures and tables in
   scientific writing.
-file: /ol-ocw-studio-app/courses/7-02ci-experimental-biology-communications-intensive-spring-2005/f7390deaa85ea1d39ce69574ecf61ab5_tblfigs_mpo_sp05.pdf
+file: /courses/7-02ci-experimental-biology-communications-intensive-spring-2005/f7390deaa85ea1d39ce69574ecf61ab5_tblfigs_mpo_sp05.pdf
 file_size: 158391
 file_type: application/pdf
 learning_resource_types:

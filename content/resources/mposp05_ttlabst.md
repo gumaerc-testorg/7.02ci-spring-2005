@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains insturction for the title and abstract for the paper.
-file: /ol-ocw-studio-app/courses/7-02ci-experimental-biology-communications-intensive-spring-2005/1ad68175c6127b2b540603c613007fc9_mposp05_ttlabst.pdf
+file: /courses/7-02ci-experimental-biology-communications-intensive-spring-2005/1ad68175c6127b2b540603c613007fc9_mposp05_ttlabst.pdf
 file_size: 126299
 file_type: application/pdf
 learning_resource_types:
