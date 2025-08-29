@@ -2,7 +2,7 @@
 content_type: resource
 description: This file provides information about the illustrations, purpose of illustrations,
   logistics of revision, pitfalls of the legend and examples of effective legend.
-file: /courses/7-02ci-experimental-biology-communications-intensive-spring-2005/704397c8e9cd7e2e8ff208584d529593_illus_nl_sp05.pdf
+file: /ol-ocw-studio-app/courses/7-02ci-experimental-biology-communications-intensive-spring-2005/704397c8e9cd7e2e8ff208584d529593_illus_nl_sp05.pdf
 file_size: 123354
 file_type: application/pdf
 learning_resource_types:
