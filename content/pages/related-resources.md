@@ -9,10 +9,10 @@ uid: b4879c80-d310-999d-d76d-a0e669ec4cbf
 ---
 ## Scientific Communication
 
-[MendelWeb](http://www.mendelweb.org/)   
+{{% resource_link "7ab34845-b50d-495b-a39a-015b71b91820" "MendelWeb" %}}   
 Resource site for the "Mendel" Long Term Project.
 
-[The MIT Writing and Communications Center](http://web.mit.edu/writing/Center/index.html)   
+{{% resource_link "29a65f4a-3a71-4bf7-adda-8d0b5063ca7d" "The MIT Writing and Communications Center" %}}   
 The Writing and Communications Center offers free one-to-one instruction on any aspect of writing.
 
 Writing Up Research   
@@ -21,5 +21,5 @@ A fairly comprehensive explanation of the components of the research article fro
 Writing in the Neurobiological Sciences   
 A scientific writing course from the University of Florida with many useful links.
 
-[Writing Guidelines for Engineering and Science Students](https://www.bse.vt.edu/content/dam/bse_vt_edu/undergraduate/advising/files/guide_to_laboratory_reports_sept_2016.pdf)   
+{{% resource_link "644cbe6d-4e04-407b-b846-d5cc305c208e" "Writing Guidelines for Engineering and Science Students" %}}   
 A useful resource on scientific writing from Virginia Tech. Includes many examples and additional links.
